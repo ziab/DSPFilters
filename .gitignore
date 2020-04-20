@@ -1,4 +1,11 @@
 build
+user/Workspaces/VisualStudio2010/.vs
 .waf*
 .lock*
 .*.sw*
+*.user
+*.obj
+*.tlog
+*.pdb
+*.lib
+*.log
